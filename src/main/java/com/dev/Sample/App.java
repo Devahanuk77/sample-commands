@@ -10,6 +10,10 @@ public class App
 		}
 	}
 	
+	public void addedAddition() {
+		System.out.println("Addition of two numbers method ");
+	}
+	
     public static void main( String[] args )
     {
     	
