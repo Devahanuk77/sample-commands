@@ -14,6 +14,10 @@ public class App
 		System.out.println("Addition of two numbers method ");
 	}
 	
+	public void anotherSubMenu() {
+		System.out.println("Addition of some random method");
+	}
+	
     public static void main( String[] args )
     {
     	
