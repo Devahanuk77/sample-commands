@@ -1,15 +1,11 @@
 package com.dev.Sample;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 	
 	public void insertData(String data) {
-		System.out.println("Data ="+data);
-		if(data.equals("Git Tutorial")) {
+		if(data.equals(Constant.DATA_TYPE)) {
 			System.out.println("Welcome to Git session");
 		}
 	}
